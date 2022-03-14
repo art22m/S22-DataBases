@@ -1,5 +1,6 @@
-![diagram](/Users/artmurashko/S22-DataBases/week01/ChenNotation.jpeg)
+![diagram](ChenNotation.jpeg)
 
+B20-02 group
 Khabib Khaysadykov k.khaysadykov@innopolis.university
 Adela Krylova a.krylova@innopolis.university
 Artyom Chernitsa a.chernitsa@innopolis.university
