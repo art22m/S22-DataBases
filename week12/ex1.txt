@@ -1,0 +1,18 @@
+such commands for nodes creation:
+
+CREATE (n:Fighter {name: 'Brock Lesnar', weight: '230'})
+
+
+commands for relation creation:
+
+MATCH
+  (a:Fighter),
+  (b:Fighter)
+WHERE a.name = 'Matt Hamill' AND b.name = 'Jon Jones'
+CREATE (a)-[r:beats]->(b)
+RETURN type(r)
+
+
+check the results by:
+
+MATCH (n) RETURN n 
